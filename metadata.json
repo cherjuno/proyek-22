@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Quick Study",
+  "description": "A pocket tutor app to help students organize their schedule, chat with an AI learning pal, track tasks, store learning materials, and take quick notes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
